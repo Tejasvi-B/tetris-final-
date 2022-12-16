@@ -1,0 +1,97 @@
+﻿'tetris(final).exe' (Win32): Loaded 'C:\Users\mason\source\repos\tetris-final-\x64\Debug\tetris(final).exe'. Symbols loaded.
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Program Files\Avast Software\Avast\aswhook.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Users\mason\source\repos\tetris-final-\x64\Debug\sfml-graphics-d-2.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Users\mason\source\repos\tetris-final-\x64\Debug\sfml-window-d-2.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Users\mason\source\repos\tetris-final-\x64\Debug\sfml-system-d-2.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0xb9e4 has exited with code 0 (0x0).
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\directxdatabasehelper.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\AppXDeploymentClient.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'
+The thread 0x10b08 has exited with code 0 (0x0).
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\AppXDeploymentClient.dll'
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a953cebc2f0daf9c\ig9icd64.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a953cebc2f0daf9c\igdml64.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a953cebc2f0daf9c\igdgmm64.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvlt.inf_amd64_7947c31fc944635c\nvdlistx.dll'
+The thread 0xe3e0 has exited with code 0 (0x0).
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a953cebc2f0daf9c\igc64.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'tetris(final).exe' (Win32): Unloaded 'C:\Windows\System32\SHCore.dll'
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'tetris(final).exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+The thread 0xe6bc has exited with code 1 (0x1).
+The thread 0x10748 has exited with code 0 (0x0).
+The thread 0x10028 has exited with code 0 (0x0).
+The thread 0xe25c has exited with code 0 (0x0).
+The thread 0x7074 has exited with code 0 (0x0).
+The thread 0xa5bc has exited with code 0 (0x0).
+The thread 0x8c04 has exited with code 0 (0x0).
+The thread 0xfc48 has exited with code 0 (0x0).
+The thread 0xfe90 has exited with code 0 (0x0).
+The program '[70460] tetris(final).exe' has exited with code 0 (0x0).
